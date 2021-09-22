@@ -1,0 +1,36 @@
+.d-flex{
+ margin-left: 60px;
+ margin-right: 60px;
+ margin-top: 30px;
+ width: 90%; 
+}
+.form-control{
+ font-size: 20px;
+}
+.btn{
+ font-size: 15px;
+}
+.heading{
+ background:rgb(64, 187, 187);
+ font-size: 20px;
+}
+.table{
+ margin-left: 60px;
+ margin-right: 60px;
+ width: 90%;
+ background: rgb(233, 233, 243);
+}
+.taskbody{
+ font-size: 20px;
+}
+.statusbody{
+ width: 120px; 
+ font-weight: bold;
+ font-size: 18px;
+}
+.pointer{
+ cursor: pointer;
+}
+.finished{
+ text-decoration: line-through;
+}
